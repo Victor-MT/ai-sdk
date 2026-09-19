@@ -8,7 +8,7 @@ As respostas aparecem aos poucos, conforme são geradas — comportamento chamad
 
 ## Chatbot
 
-![Chat em funcionamento, com uma resposta da IA e um cartão de perfil do GitHub](/docs/portfolio-cover.png)
+![Chat em funcionamento, com uma resposta da IA e um cartão de perfil do GitHub](/docs/portfolio-cover.webp)
 
 
 ## Tecnologias utilizadas
