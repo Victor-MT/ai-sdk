@@ -6,6 +6,11 @@ Este projeto demonstra como construir um chat com inteligência artificial usand
 
 As respostas aparecem aos poucos, conforme são geradas — comportamento chamado de **streaming** — e são exibidas com formatação Markdown, como títulos, listas e tabelas. Na configuração atual, o chat utiliza o modelo `gpt-4o` da OpenAI.
 
+## Chatbot
+
+![Chat em funcionamento, com uma resposta da IA e um cartão de perfil do GitHub](/docs/portfolio-cover.png)
+
+
 ## Tecnologias utilizadas
 
 | Tecnologia | Papel no projeto |
@@ -16,10 +21,6 @@ As respostas aparecem aos poucos, conforme são geradas — comportamento chamad
 | [Tailwind CSS 4](https://tailwindcss.com/docs) | Define cores, espaçamentos e layout da interface. |
 | [AI SDK](https://ai-sdk.dev/docs/introduction) | Integra o modelo de IA, as respostas em streaming e a execução de ferramentas. |
 | OpenAI e API do GitHub | Fornecem, respectivamente, a geração das respostas e os dados públicos dos perfis. |
-
-## Projeto em funcionamento
-
-![Chat em funcionamento, com uma resposta da IA e um cartão de perfil do GitHub](/docs/portfolio-cover.png)
 
 ## Como baixar e rodar
 
