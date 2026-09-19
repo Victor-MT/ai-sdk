@@ -19,13 +19,7 @@ As respostas aparecem aos poucos, conforme são geradas — comportamento chamad
 
 ## Projeto em funcionamento
 
-![Print Projeto](/docs/portfolio-cover.png)
-
-Para adicionar a imagem, salve o arquivo em `public/chat-preview.png` e remova os marcadores de comentário (`<!--` e `-->`) abaixo. Ajuste o caminho se usar outro nome ou formato.
-
-<!--
-![Chat em funcionamento, com uma resposta da IA e um cartão de perfil do GitHub](public/chat-preview.png)
--->
+![Chat em funcionamento, com uma resposta da IA e um cartão de perfil do GitHub](/docs/portfolio-cover.png)
 
 ## Como baixar e rodar
 
