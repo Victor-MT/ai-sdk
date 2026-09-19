@@ -1,4 +1,4 @@
-# AI SDK — Chat com inteligência artificial: Buscador de informações no GitHub
+# Vercel AI SDK — Chat com inteligência artificial: Buscador de informações no GitHub
 
 ## Objetivo do projeto
 
